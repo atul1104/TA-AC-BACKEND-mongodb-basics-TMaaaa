@@ -107,3 +107,17 @@ db.users.insertMany([
     sports: ['football', 'cricket', 'TT'],
   },
 ]);
+
+
+
+
+{
+  title: '',
+  details: '',
+  author: {
+    name: '',
+    email: '',
+    age: ''
+  },
+  tags: ['js', 'mongo']
+}
